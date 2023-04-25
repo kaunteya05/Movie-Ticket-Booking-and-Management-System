@@ -1,0 +1,51 @@
+Order_ID,Name,Contact_Number,City,Movie,Venue,Show_Time,Seat_Number,No_Of_Seats
+101,Charles Reed,7555762685,Mumbai,Liger (Hindi 2D),"Maison PVR:Library Hall,Jio World Drive",9:00 PM,"L9,L10",2
+102,Todd Boyer,7555885944,Bangalore,Nope (English 2D),PVR:Gold VR,3:30 PM,"L9,L10,L11,L12,L13",5
+103,Joel Hood,7555609806,Bangalore,Liger (Hindi 2D),Cinepolis:Orion East Mall,3:30 PM,L15,1
+104,Janet Hanson,7555834298,Jaipur,Nope (English 2D),Miraj Cinemas:Entertainment Paradise,9:00 PM,"L9,L10,L11,L12",4
+105,Courtney Andrade,8555911839,Delhi-NCR,Laal Singh Chaddha (Hindi 2D),Cinepolis:Grand Venice Mall,9:00 PM,"L9,L10,L11,L12,L13,L14,L15,L16",8
+106,Francisco Harrison,9855587355,Chandigarh,Nope (English 2D),PVR:Elante,3:30 PM,"H7,H8,H9,H10,H11,G7,G8,G9,G10",9
+107,Christopher Bentley,8555321445,Hyderabad,Nope (English 2D),PVR: Central Mall,9:00 PM,"H4,H5,H6,H7,H8,H9,H10,H11,H12,H13",10
+108,Gregory Washington,9055539953,Jaipur,Dragon Ball Super: Super Hero (English 2D),INOX:Elements Mall,3:30 PM,"L13,L14",2
+109,Scott Lee,8555202499,Mumbai,Nope (English 2D),INOX:Atria Mall,3:30 PM,L11,1
+110,Joshua Hart,9055540975,Mumbai,Dragon Ball Super: Super Hero (English 2D),"Maison PVR:Library Hall,Jio World Drive",9:00 PM,L12,1
+111,Stephanie Acosta,7555414630,Bangalore,Kathikeya 2 (Hindi 2D),INOX:Garuda Mall,3:30 PM,"K4,K5,K6,K7",4
+112,Nicholas Pratt,8555140966,Chandigarh,Top Gun:Maverick (English 2D),Cinepolis:Bestech Square,9:00 PM,"K6,K7,K8,K9,K10,K11,K12",7
+113,Dr. Melody Collins,9955504099,Hyderabad,Top Gun:Maverick (English 2D),Cinepolis:Mantra Mall,3:30 PM,"K9,K10",2
+114,Yvonne Mcmillan,8555265745,Bangalore,Thiruchitrambalam (Tamil 2D),Cinepolis:Orion East Mall,3:30 PM,"K2,K3,K4,K5,K6,K7,K8,K9,K10",9
+115,Heather Lee,8555737955,Delhi-NCR,Bullet Train (English 2D),INOX:Sapphire 90 Mall,3:30 PM,"K1,K2,K3,K4,K5,K6,K7,K8",8
+116,Heather Hill,7555293611,Jaipur,Aanchhi (Hindi 2D),Cinepolis:World Trade Park,9:00 PM,"L9,L10,L11,L12,L13,L14,L15,L16",8
+117,Shawna Davis,7555259405,Hyderabad,Dragon Ball Super: Super Hero (English 2D),INOX:Sattva Necklace,9:00 PM,"K7,K8,K9",3
+118,Courtney Palmer,8555797456,Chandigarh,Dragon Ball Super: Super Hero (English 2D),INOX:Dhillon Plaza,9:00 PM,"K13,K14,K15,K16,K17",5
+119,Tony Nunez,8555229905,Mumbai,Bullet Train (English 2D),Cinepolis:Nexus Seawoods,9:00 PM,"K1,K2,K3,K4,K5,K6",6
+120,Stephanie Rice,9555567943,Delhi-NCR,Top Gun:Maverick (English 2D),PVR:Ambience,3:30 PM,"K9,K10",2
+121,Anna Smith,9155579644,Jaipur,Dragon Ball Super: Super Hero (English 2D),Cinepolis:World Trade Park,3:30 PM,"K19,K20,K21,K22",4
+122,Brenda Jackson,8555133979,Jaipur,Nope (English 2D),INOX:Elements Mall,3:30 PM,"L9,L10,L11,L12,L13,L14,L15",7
+123,William Klein,7555634888,Delhi-NCR,Top Gun:Maverick (English 2D),Cinepolis:Grand Venice Mall,9:00 PM,"K11,K12",2
+124,Kelly Jones,9955565592,Jaipur,Liger (Hindi 2D),Cinepolis:World Trade Park,9:00 PM,"K7,K8,K9",3
+125,Christopher Soto,7555486785,Hyderabad,Bullet Train (English 2D),Cinepolis:Mantra Mall,3:30 PM,"K2,K3,K4,K5,K6,K7,K8,K9,K10",9
+126,Rebecca Mullins,7555174166,Jaipur,Raksha Bandhan (Hindi 2D),Miraj Cinemas:Entertainment Paradise,3:30 PM,"K5,K6,K7,K8,K9,K10,K11,K12,K13,K14",10
+127,Nicole Gentry,9955531627,Bangalore,Dragon Ball Super: Super Hero (English 2D),PVR:Gold VR,9:00 PM,"L11,L12,L13",3
+128,Shawn Perkins,7555186094,Mumbai,Top Gun:Maverick (English 2D),Cinepolis:Nexus Seawoods,9:00 PM,"K7,K8,K9,K10,K11,K12",6
+129,Kyle Austin,7555570092,Hyderabad,Liger (Hindi 2D),INOX:Sattva Necklace,3:30 PM,"L9,L10,L11,L12,L13,L14,L15,L16",8
+130,Justin Stewart,9555532957,Chandigarh,Bullet Train (English 2D),PVR:Elante,9:00 PM,L11,1
+131,Alyssa Dunlap,7555243630,Mumbai,Top Gun:Maverick (English 2D),"Maison PVR:Library Hall,Jio World Drive",3:30 PM,"L13,L14,L15,L16",4
+132,Sarah Robbins,8555022702,Delhi-NCR,Dobaaraa (Hindi 2D),PVR:Ambience,9:00 PM,"K13,K14,K15,K16,K17,K18,K19",7
+133,Caroline Walker,9155533812,Hyderabad,Top Gun:Maverick (English 2D),Cinepolis:Mantra Mall,9:00 PM,"K11,K12,K13,K14,K15,K16,K17,K18,K19,K20",10
+134,Jon Williams,9955507907,Mumbai,Top Gun:Maverick (English 2D),INOX:Atria Mall,3:30 PM,"K13,K14",2
+135,William Everett,9355531338,Delhi-NCR,Bullet Train (English 2D),INOX:Sapphire 90 Mall,9:00 PM,"L9,L10,L11,L12,L13",5
+136,Tiffany Bennett,7555200980,Chandigarh,Top Gun:Maverick (English 2D),Cinepolis:Bestech Square,3:30 PM,"H3,H4,H5,H6,H7,H8,H9,H10",8
+137,Karen Burke,7555072156,Hyderabad,Liger (Hindi 2D),PVR: Central Mall,3:30 PM,L10,1
+138,Catherine Barrett,7555358123,Delhi-NCR,Kathikeya 2 (Hindi 2D),Cinepolis:Grand Venice Mall,3:30 PM,"L9,L10,L11,L12,L13,L14",6
+139,Cindy Holloway,7555627274,Jaipur,Aanchhi (Hindi 2D),Cinepolis:World Trade Park,9:00 PM,"K7,K8",2
+140,Erin Gibson,9255560231,Mumbai,Dobaaraa (Hindi 2D),Cinepolis:Nexus Seawoods,9:00 PM,"K15,K16,K17,K18,K19,K20,K21",7
+141,Kevin Juarez DDS,9355552752,Hyderabad,Kathikeya 2 (Hindi 2D),Cinepolis:Mantra Mall,9:00 PM,"K19,K20,K21,K22,H19,H20,H21,H22",8
+142,Mallory Riley,8555553269,Mumbai,Dragon Ball Super: Super Hero (English 2D),"Maison PVR:Library Hall,Jio World Drive",9:00 PM,"L9,L10,L11",3
+143,Alexandria Payne,8555156806,Hyderabad,Nope (English 2D),INOX:Sattva Necklace,3:30 PM,"K8,K9,K10,H8,H9,H10",6
+144,Thomas Jones,8555969190,Bangalore,Laal Singh Chaddha (Hindi 2D),INOX:Garuda Mall,3:30 PM,"H9,10,H11,H12",4
+145,Tammie Mcintosh,9155505220,Hyderabad,Kathikeya 2 (Hindi 2D),Cinepolis:Mantra Mall,3:30 PM,"G8,G9,G10,G11,G12,F8,F9,F10,F11,F12",10
+146,Diana Boone,8555912729,Chandigarh,Liger (Hindi 2D),Cinepolis:Bestech Square,9:00 PM,"K21,K22",2
+147,Edward Jones,9755573402,Mumbai,Bullet Train (English 2D),INOX:Atria Mall,3:30 PM,"L9,L10,L11,L12,L13,L14,L15",7
+148,Ann Peterson,9755531245,Hyderabad,Bullet Train (English 2D),PVR: Central Mall,3:30 PM,"L10,L11,L12,L13,L14,L15,L16",7
+149,Catherine Wilson MD,7555575247,Chandigarh,Bullet Train (English 2D),INOX:Dhillon Plaza,9:00 PM,"H19,H20,H21,H22",4
+150,Tiffany Thomas,7555182712,Jaipur,Kathikeya 2 (Hindi 2D),INOX:Elements Mall,9:00 PM,"K4,K5,K6,K7,K8,K19,K10,K11",8

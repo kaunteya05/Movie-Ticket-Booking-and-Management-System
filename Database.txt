@@ -1,0 +1,17 @@
+create database Customer;
+
+use Customer;
+
+create table Details(
+Order_ID INT NOT NULL AUTO_INCREMENT,
+Name VARCHAR(100) NOT NULL,
+Contact_Number BIGINT NOT NULL,
+City VARCHAR(100) NOT NULL,
+Movie VARCHAR(100) NOT NULL,
+Venue VARCHAR(100) NOT NULL,
+Show_Time VARCHAR(20) NOT NULL,
+Seat_Number VARCHAR(50) NOT NULL,
+No_Of_Seats INT NOT NULL,
+PRIMARY KEY (Order_ID));
+
+insert into 
